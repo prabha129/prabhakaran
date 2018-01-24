@@ -1,10 +1,12 @@
 #include <iostream>
 using namespace std;
-int main() {
+int main() 
+{
     int i, n;
     cin >> n;
-    for (i=0; i<n; i++) {
-        cout << "hello world\n";
+    for (i=0; i<n; i++) 
+    {
+    cout << "hello world\n";
     }
     return 0;
 }
