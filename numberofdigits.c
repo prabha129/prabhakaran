@@ -3,7 +3,7 @@ int main()
 {
 int a,i;
 scanf("%d",&a);
-for(i=1;a>10;i++)
+for(i=2;a>10;i++)
 {
 a=a/10;
 }
