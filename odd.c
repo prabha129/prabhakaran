@@ -3,6 +3,9 @@ int main()
 {
     int low, high, i, flag;
     printf("Enter two numbers(intervals): ");
+    
+    
+    
     scanf("%d %d", &low, &high);
     printf("Odd numbers between %d and %d are: ", low, high);
     while (low < high)
