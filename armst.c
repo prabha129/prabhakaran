@@ -1,8 +1,8 @@
 #include <stdio.h>
-
-int main(void) {
-	int n,m,temp,i,rem=0;
-    scanf("%d%d",&n,&m);
+int main(void) 
+{
+int n,m,temp,i,rem=0;
+scanf("%d%d",&n,&m);
 for(i=n;i<m;i++)
 { int sum=0;
     temp=i;
